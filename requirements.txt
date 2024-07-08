@@ -1,0 +1,7 @@
+streamlit
+openai
+numpy
+torch
+requests
+urllib3
+python-dotenv  # Optional, if using dotenv to manage environment variables
